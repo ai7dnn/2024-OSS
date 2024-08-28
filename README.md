@@ -7,8 +7,8 @@
 - OSS 교과목 내용(Git & GitHub)의 정리
   - 자기주도학습에 의해 하나의 저장소 생성 후 구축
 - 개인과제 주소 업로드
-  - [A반]([https://docs.google.com/spreadsheets/d/1dkaJqXxQ-JRY-r0_0T7IKlT_5RDzRI5Ofi8bTHliJ7k/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing))
-  - [B반]([https://docs.google.com/spreadsheets/d/1BDcVUdrOyOFUChj9r5CjLdHRps9XuoUhbaaT_LJK-FU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1N_nsCXXCHMTXm5z-7ULzgeUfiKECTVSyBsfPgSHF98I/edit?usp=sharing))
+  - [A반](https://docs.google.com/spreadsheets/d/1dkaJqXxQ-JRY-r0_0T7IKlT_5RDzRI5Ofi8bTHliJ7k/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing)
+  - [B반](https://docs.google.com/spreadsheets/d/1BDcVUdrOyOFUChj9r5CjLdHRps9XuoUhbaaT_LJK-FU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1N_nsCXXCHMTXm5z-7ULzgeUfiKECTVSyBsfPgSHF98I/edit?usp=sharing)
 - 과제마감일
   - 2024.12.06(금)
 
