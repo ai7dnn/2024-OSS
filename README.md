@@ -1,6 +1,10 @@
 # 2024-OSS
 2024-2 오픈소스소프트웨어 교과목
 
+## 강환수 교수의 유튜브 강좌
+- [걍교수의 AIT code](https://www.youtube.com/@aitcode)
+- [오픈소스소프트웨어](https://www.youtube.com/watch?v=m0nk6c8bjYo&list=PLuiwxLXzcfdVnI_flMq1CVFyHPG6f8J42)
+
 ## 개인과제: 다음 내용을 디자인 함께 평가
 - 개인 github 저장소 구축
   - 잔디심기, readme.md 파일 작성
