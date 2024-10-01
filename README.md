@@ -16,6 +16,24 @@
 - 과제마감일
   - 2024.12.06(금)
 
+## 팀과제: 다음 내용을 디자인 함께 팀원들의 협업 활동 평가
+- 내용과 함께 깃허브의 다양한 기능 사용 평가
+    - 이슈, 마일스톤, 레이블, PR, 위키, 프로젝트 등 
+- 팀(4-7명)별 github 저장소 구축: md 파일, 팀원의 활동이 축적 
+- 사례1 : ‘오픈소스소프트웨어 보고서’ 구축
+    - OSS 개요, OSS 역사
+    - 대표적 OSS 소개
+    - OSS 저작권	
+- 사례2: 실제 소프트웨어개발 구축
+    - chatGPT로 최초 소프트웨어를 생성
+    - 팀원들이 더욱 개선해 나가는 협업 과정(커밋에 여러 번 발생)
+
+- 팀과제 주소 업로드
+  - [A반](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing)
+  - [B반](https://docs.google.com/spreadsheets/d/1N_nsCXXCHMTXm5z-7ULzgeUfiKECTVSyBsfPgSHF98I/edit?usp=sharing)
+- 과제마감일
+  - 2024.12.06(금)
+
 
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
 - [드림코딩 깃과 깃허브 기초 6분](https://www.youtube.com/watch?v=lPrxhA4PLoA)
