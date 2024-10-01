@@ -19,7 +19,7 @@
 ## 팀과제: 다음 내용을 디자인 함께 팀원들의 협업 활동 평가
 - 내용과 함께 깃허브의 다양한 기능 사용 평가
   - 이슈, 마일스톤, 레이블, PR, 위키, 프로젝트 등 
-- 팀(4-7명)별 github 저장소 구축
+- 팀(수업의 같은 반 4-7명)별 github 저장소 구축
   - md 파일, 팀원의 활동이 축적 
 - 팀과제 주소 업로드
   - [A반](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing)
