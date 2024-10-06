@@ -21,7 +21,8 @@
 - 내용과 함께 깃허브의 다양한 기능 사용 평가
   - 이슈, 마일스톤, 레이블, PR, 위키, 프로젝트 등 
 - 팀(수업의 같은 반 4-7명)별 github 저장소 구축
-  - md 파일, 팀원의 활동이 축적 
+  - 내용 파일은 md 파일로 작성
+  - 팀원의 활동이 축적 
 - 팀과제 주소 업로드
   - [A반](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing)
   - [B반](https://docs.google.com/spreadsheets/d/1N_nsCXXCHMTXm5z-7ULzgeUfiKECTVSyBsfPgSHF98I/edit?usp=sharing)
