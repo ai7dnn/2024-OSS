@@ -5,6 +5,10 @@
 - [걍교수의 AIT code](https://www.youtube.com/@aitcode)
 - [오픈소스소프트웨어](https://www.youtube.com/watch?v=m0nk6c8bjYo&list=PLuiwxLXzcfdVnI_flMq1CVFyHPG6f8J42)
 
+## 중간고사와 기말고사
+- 중간고사
+  - 01주와 06주 대면수업 내용 + 2~8주(#01~18) 온라인 원격수업
+
 ## 개인과제: 다음 내용을 디자인 함께 평가
 - 개인 github 저장소 구축
   - 잔디심기(커밋을 자주 하도록)
